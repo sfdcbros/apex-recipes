@@ -44,3 +44,9 @@ $RECYCLE.BIN/
 
 # Scratch Files - not for commit
 /Scratch/
+
+# Apex Test Results folder
+/testresults/
+
+# Manifest folder 
+/manifest/
